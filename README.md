@@ -5,6 +5,8 @@ En este caso desarrollaremos 3 páginas para nuestro proyecto. Además de ello p
 
 <img width="1040" alt="HOME_sm_p3 fig" src="https://user-images.githubusercontent.com/98815751/155090259-461a939e-a7dc-40e3-b47a-044a421b431f.png">
 
+Ahora se mostrarán desde una vista aérea el proyecto desarrollado del Home, donde podremos visualizar por encima las distintas partes del mismo en los dispositivos propuestos (versión movil y aplicación de escritorio)
+
 VISIÓN DE LA VERSIÓN ESCRITORIO/DESKTOP
 
 Aquí podremos ver como hemos desarrollado un desglose del menu de nuestro Home en el cual recogemos las opciones del mismo vistas en el sitemap general anterior. Tenemos varios modelos de páginas en función del la información que deseamos mostrar a los usuarios.
