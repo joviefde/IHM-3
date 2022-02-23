@@ -19,10 +19,9 @@ Aquí podremos ver como hemos desarrollado un desglose del menu de nuestro Home 
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/joviefde/IHM-3/main/Versi%C3%B3n_escritorio.png?token=GHSAT0AAAAAABREN7M45N7KTQLMBXG24YOKYQWPIKQ">
-</p>
-
-
-<p align="center">
+	
+	
+	
 	VERSIÓN MOVIL
 </p>
 
