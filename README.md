@@ -18,17 +18,15 @@ En el caso de la vista de escritorio tenemos la posibilidad de un footer o pie d
 Aquí podremos ver como hemos desarrollado un desglose del menu de nuestro Home en el cual recogemos las opciones del mismo vistas en el sitemap general anterior. Tenemos varios modelos de páginas en función del la información que deseamos mostrar a los usuarios.
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/joviefde/IHM-3/main/Versi%C3%B3n_escritorio.png?token=GHSAT0AAAAAABREN7M45N7KTQLMBXG24YOKYQWPIKQ">
-	
-	
-	
-	VERSIÓN MOVIL
+  <img src="https://raw.githubusercontent.com/joviefde/IHM-3/main/Versi%C3%B3n_escritorio.png?token=GHSAT0AAAAAABREN7M4LZ2LEPRGIM5AEIYIYQWPTHQ">
 </p>
 
-
+<p align="center">
+	VERSIÓN MOVIL
+</p>
 Aquí podremos ver como hemos desarrollado un desglose del menu de nuestro Home en el cual recogemos las opciones del mismo vistas en el sitemap general anterior. Tenemos varios modelos de páginas en función del la información que deseamos mostrar a los usuarios.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joviefde/IHM-3/main/Versi%C3%B3n_movil.png?token=GHSAT0AAAAAABREN7M5CRRKXE5KJH7WZGK4YQWPJMA">
+  <img src="https://raw.githubusercontent.com/joviefde/IHM-3/main/Versi%C3%B3n_movil.png?token=GHSAT0AAAAAABREN7M4WW4WFYIYDQLZSCHEYQWPSUQ">
 </p>
 
