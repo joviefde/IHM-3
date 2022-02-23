@@ -7,10 +7,14 @@ En este caso desarrollaremos 3 páginas para nuestro proyecto. Además de ello p
 
 VISIÓN DE LA VERSIÓN ESCRITORIO/DESKTOP
 
-![imagenGlobal_desktop](https://user-images.githubusercontent.com/98815751/155311335-0d783391-22ae-48d9-b972-c3c3aac89d3f.png)
+Aquí podremos ver como hemos desarrollado un desglose del menu de nuestro Home en el cual recogemos las opciones del mismo vistas en el sitemap general anterior. Tenemos varios modelos de páginas en función del la información que deseamos mostrar a los usuarios.
+
+![image](https://user-images.githubusercontent.com/98815751/155377157-240d1151-a05f-4c04-a80e-306296e89a55.png)
 
 
 
 VISIÓN DE LA VERSIÓN MOVIL
 
-![imagenGlobal_mobile](https://user-images.githubusercontent.com/98815751/155311391-ee46c1ed-739e-4850-b6e8-ef554d48fd94.png)
+Aquí podremos ver como hemos desarrollado un desglose del menu de nuestro Home en el cual recogemos las opciones del mismo vistas en el sitemap general anterior. Tenemos varios modelos de páginas en función del la información que deseamos mostrar a los usuarios.
+
+![image](https://user-images.githubusercontent.com/98815751/155377002-65b9cccf-de4c-45bd-a5b6-3cb9fc8c047e.png)
