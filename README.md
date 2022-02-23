@@ -5,7 +5,11 @@ En este caso desarrollaremos 3 páginas para nuestro proyecto. Además de ello p
 
 <img width="1040" alt="HOME_sm_p3 fig" src="https://user-images.githubusercontent.com/98815751/155090259-461a939e-a7dc-40e3-b47a-044a421b431f.png">
 
-Ahora se mostrarán desde una vista aérea el proyecto desarrollado del Home, donde podremos visualizar por encima las distintas partes del mismo en los dispositivos propuestos (versión movil y aplicación de escritorio)
+Ahora se mostrarán desde una vista aérea el proyecto desarrollado del Home, donde podremos visualizar por encima las distintas partes del mismo en los dispositivos propuestos (versión movil y aplicación de escritorio).
+
+Para mayor visibilidad y facilidad para el usuario la idea es mostrar todo con la mayor claridad posible incluyendo así imagenes e imagenes con enlaces en las mismas para por ejemplo que nos lleve a nuestras redes sociales y plataformas de contacto(e-mail, linkedIn, GitHub, Instagram, twitter, facebook...).
+
+En el caso de la vista de escritorio tenemos la posibilidad de un footer o pie de página que mantendrá en todo momento un e-mail de ayuda al usuario, además de una línea telefónica de atención al cliente y nombre de la entidad propietaria.
 
 VISIÓN DE LA VERSIÓN ESCRITORIO/DESKTOP
 
