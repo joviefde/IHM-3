@@ -11,7 +11,9 @@ Para mayor visibilidad y facilidad para el usuario la idea es mostrar todo con l
 
 En el caso de la vista de escritorio tenemos la posibilidad de un footer o pie de página que mantendrá en todo momento un e-mail de ayuda al usuario, además de una línea telefónica de atención al cliente y nombre de la entidad propietaria.
 
-						VERSIÓN ESCRITORIO/DESKTOP
+<p align="center">
+	VERSIÓN ESCRITORIO/DESKTOP
+</p>
 
 Aquí podremos ver como hemos desarrollado un desglose del menu de nuestro Home en el cual recogemos las opciones del mismo vistas en el sitemap general anterior. Tenemos varios modelos de páginas en función del la información que deseamos mostrar a los usuarios.
 
@@ -20,8 +22,10 @@ Aquí podremos ver como hemos desarrollado un desglose del menu de nuestro Home 
 </p>
 
 
+<p align="center">
+	VERSIÓN MOVIL
+</p>
 
-						VISIÓN DE LA VERSIÓN MOVIL
 
 Aquí podremos ver como hemos desarrollado un desglose del menu de nuestro Home en el cual recogemos las opciones del mismo vistas en el sitemap general anterior. Tenemos varios modelos de páginas en función del la información que deseamos mostrar a los usuarios.
 
